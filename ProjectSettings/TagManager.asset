@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player1
+  - Enemy
+  - PlayerSword
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Climbing
+  - Background
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1448029873
+    locked: 0
+  - name: Climbing
+    uniqueID: 3242224775
+    locked: 0
+  - name: Portal
+    uniqueID: 1585632865
+    locked: 0
+  - name: Player
+    uniqueID: 2654613187
+    locked: 0
+  - name: Enemy
+    uniqueID: 1219921543
+    locked: 0
+  - name: ForeGorund
+    uniqueID: 3879802115
+    locked: 0
+  - name: Buttons
+    uniqueID: 1019035419
+    locked: 0
